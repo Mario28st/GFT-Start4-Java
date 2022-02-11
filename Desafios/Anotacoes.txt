@@ -1,0 +1,7 @@
+Primeiro desafio - Curso de introdução ao Git e Github
+
+Criação do repositório GFT-Start4-Java
+Criação das pastas Certificados, Desafios e Material
+
+Utilizarei o repositório durante o bootcamp para guardar os projetos e desafios.
+
